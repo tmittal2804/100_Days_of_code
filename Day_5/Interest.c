@@ -5,7 +5,7 @@
 int main() {
     double principal, rate, time;
     double simpleInterest, compoundInterest;
-    printf ("Enter the principal amount:\n"*);
+    printf ("Enter the principal amount:\n");
     scanf ("%lf", &principal);
     printf ("Enter Rate:\n");
     scanf ("%lf", &rate);
